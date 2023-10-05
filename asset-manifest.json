@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Drums-Machine/static/css/main.db48ad1c.css",
+    "main.js": "/Drums-Machine/static/js/main.99a0f332.js",
+    "static/media/logo.png": "/Drums-Machine/static/media/logo.3a4c6c71ef6732be1cb3.png",
+    "index.html": "/Drums-Machine/index.html",
+    "main.db48ad1c.css.map": "/Drums-Machine/static/css/main.db48ad1c.css.map",
+    "main.99a0f332.js.map": "/Drums-Machine/static/js/main.99a0f332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db48ad1c.css",
+    "static/js/main.99a0f332.js"
+  ]
+}
